@@ -41,6 +41,11 @@ Once you’ve cleaned up your desktop, use Google or another search engine to le
 commands to take a screenshot of your desktop. Create the screenshot, then copy it to this directory
 (`pp-02`) and add and commit it to the repository.
 
+ 
+
+
+
+
 2. Clean up your home directory.
 
 No deliverable for this (I don’t want to see your files), but on the honors system, take this
