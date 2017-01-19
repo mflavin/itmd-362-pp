@@ -1,3 +1,4 @@
+
 # Production Problem 2: Clean Up and Organize Your Devices
 
 When you show off work on your own computer to someone else (a boss, a client, a colleague, a
@@ -40,10 +41,6 @@ all do the job nicely. What works for you?
 Once you’ve cleaned up your desktop, use Google or another search engine to learn the keyboard
 commands to take a screenshot of your desktop. Create the screenshot, then copy it to this directory
 (`pp-02`) and add and commit it to the repository.
-
- 
-
-
 
 
 2. Clean up your home directory.
