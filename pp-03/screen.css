@@ -178,3 +178,26 @@ textarea {
 }
 
 /* Normalization Ends */
+
+/* ===== BASE STYLES ===== */
+
+html {
+  font-size: 1.424em;
+  line-height: 1.7088em;
+  text-align: center;
+}
+h1 {
+  font-size: 1.802em;
+  line-height: 2.3426em;
+}
+p {
+  padding-bottom: 0.66em;
+}
+label, input { 
+  box-sizing: border-box;
+  width: 62%;
+  display: block;
+  padding: 0.66em;
+  margin-left: auto;
+  margin-right: auto;
+}
