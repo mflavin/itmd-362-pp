@@ -182,22 +182,22 @@ textarea {
 /* ===== BASE STYLES ===== */
 
 html {
-  font-size: 1.424em;
-  line-height: 1.7088em;
+  font-size: 1.424em; /* 22.784px @ 16px/em */
+  line-height: 1.7088em;  /* 38.933px @ 22.784px/em */
   text-align: center;
 }
 h1 {
-  font-size: 1.802em;
-  line-height: 2.3426em;
+  font-size: 1.802em; /* 41.057px @ 22.784px/em */
+  line-height: 2.3426em;  /* 96.18px @ 41.057px/em */
 }
 p {
-  padding-bottom: 0.66em;
+  padding-bottom: 0.66em; /* 15.037px @ 22.784px/em */
 }
 label, input { 
   box-sizing: border-box;
   width: 62%;
   display: block;
-  padding: 0.66em;
+  padding: 0.66em;  /* 15.037px @ 22.784px/em */
   margin-left: auto;
   margin-right: auto;
 }
