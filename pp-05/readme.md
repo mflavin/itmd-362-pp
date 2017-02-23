@@ -28,6 +28,9 @@ Your Rationale: This looks like it works well becuase it has a calm purple color
 
 4. A monochromatic color palette for advertising a course on Ruby on Rails
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=30a0s0kllllaFw0g0qFqFg0w0aF
+Your Rationale: On this color palette there is a red that looks a bit rusty. When thinking of Ruby on Rails in a visual
+                way, rubys are red and if you are mining for rubies, there may be rails to cart them around. I see the 
+                shade of red like that. There is a blue that can be thought of as learning, so maybe some words on the
+                advertising could be in blue. Same for the green, it could probably be used in writing.
 
