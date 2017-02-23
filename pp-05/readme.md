@@ -21,8 +21,10 @@ Your Rationale: These colors seem like springtime becuase there is green for rep
 
 3. A triadic color palette for styling the login page for a private messaging app
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=34A0s0kleqtbzEKgVuIpcmGtdhZ
+Your Rationale: This looks like it works well becuase it has a calm purple color that would be easy on the eyes.
+                There is also a yellow that could complement areas of the app and some green that may look good
+                if used for some small things, like tabs or buttons.
 
 4. A monochromatic color palette for advertising a course on Ruby on Rails
 
