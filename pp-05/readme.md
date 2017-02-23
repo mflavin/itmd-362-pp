@@ -8,13 +8,16 @@ Opt for the Paletton Preview mode Default with Text; you can start at this URL i
 
 1. An adjacent color palette for introducing a new console gaming platform
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=53w0s0ksKkukurWp+p6yrg5JHaJ
+Your Rationale: These colors may work well for a new gaming console because they can give off a relaxing look.
+                People may see it and associate it with relaxation, so they will want to use it to just chill out.
 
 2. A triadic color palette for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=32B0s0kl0oZb9CggytBoMl7tIg7
+Your Rationale: These colors seem like springtime becuase there is green for representing plants and new grass.
+                The orange can also be used to represent plant or sometimes Chicago is seen in orange. Finally, 
+                the purple is like music, which would show off the tours.
 
 3. A triadic color palette for styling the login page for a private messaging app
 
