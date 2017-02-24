@@ -196,10 +196,37 @@ html {
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 
 label {
   display: block;
+}
+
+h1 {
+  padding-bottom: 1.182em; 
+  color: #161616;
+}
+
+p {
+  padding-bottom: 1.182em; 
+  color: #333333;
+}
+
+label[for="age-verification"] {
+  color: #333333;
+}
+
+label[for="email"] {
+  color: #474747;
+}
+
+#submit, input[type="checkbox"] {
+  margin-top: 1.182em;
+}
+
+#input-submit {
+  text-align: center;
 }
 
 /* ===== LAYOUT STYLES ====== */
@@ -207,4 +234,3 @@ label {
 /* ===== MODULAR STYLES ===== */
 
 /* ===== STATE STYLES ======= */
-
