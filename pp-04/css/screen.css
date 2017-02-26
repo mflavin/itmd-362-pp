@@ -213,8 +213,9 @@ p {
   color: #333333;
 }
 
-label[for="age-verification"] {
+input[type="checkbox"] + label[for="age-verification"] {
   color: #333333;
+  display: inline;
 }
 
 label[for="email"] {
