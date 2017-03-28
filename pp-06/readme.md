@@ -6,9 +6,9 @@ For this Production Problem, you and your group are going to establish your grou
 
 2. Write the name of your group members here: Theo Economos, Ken Ellorando, Bobby Ton
 
-3. Copy and paste the URL for your group’s organization here: https://github.com/Stolleys-Swolemates/Project-02-Redesign.git
+3. Copy and paste the URL for your group’s organization here: https://github.com/Stolleys-Swolemates
 
-4. Copy and paste the URL for your shared repository here:
+4. Copy and paste the URL for your shared repository here: https://github.com/Stolleys-Swolemates/Project-02-Redesign.git
 
 5. Each member of the group should fork the repository (including the group member whose account contains was used to create the GitHub organization for your project).
 
