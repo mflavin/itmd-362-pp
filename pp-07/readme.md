@@ -26,11 +26,18 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
-* How you implemented it in your sketch:
+* HCI Guidline One (URL): https://developer.apple.com/ios/human-interface-guidelines/visual-design/layout/ 
+                          Provide ample spacing for interactive elements. Try to maintain a minimum tappable area of 44pt x 44pt for all controls. 
 
-* HCI Guidline Two (URL):
-* How you implemented it in your sketch:
+* How you implemented it in your sketch: Make login button and text boxes easily clickable.
 
-* HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Two (URL): https://msdn.microsoft.com/en-us/library/windows/desktop/dn742486.aspx
+                          Alignment. The UI elements have coordinated placement, so they are easy to scan and appear orderly.
+                          
+* How you implemented it in your sketch: Align text boxes, labels, and buttons
+
+* HCI Guidline Three (URL): https://developer.apple.com/ios/human-interface-guidelines/ui-controls/buttons/
+                            Show a hint in a text field to help communicate purpose. A text field can contain placeholder text—such as "Email" or "Password"—when 
+                            there’s no other text in the field. Don’t use a separate label to describe a text field when placeholder text is sufficient.
+                            
+* How you implemented it in your sketch: Keep labels/placeholders short and vauge. Leave them as a hint, so lower opacity so they are not main focus.
