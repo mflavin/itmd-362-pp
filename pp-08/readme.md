@@ -12,14 +12,15 @@ A. Photograph of the object (place in the pp-09/ directory and commit).
 
 B. Emotional design levels of your object:
 
-* Visceral:
+* Visceral: Crest has a appealing colors. Blue is a secure feeling color and for something that I am putting in my mouth and using for cleaning, having a secure feeling is important. 
+            It also has a minty smell, which smells good.
 
-* Behavioral:
+* Behavioral: The toothpaste itself helps care for teeth. It container is easy to use, just twist off the cap and squeeze.
 
-* Reflective:
+* Reflective: The message of it is a cleaner or healthier mouth. The brand name makes it seem better and adversities that it works better than other toothpaste or other methods of cleaning teeth.
 
 C.  Emotional design qualities of the object that might be useful for Project 2 MyIIT redesign:
 
-1.
-2.
-3.
+1. Appealing colors
+2. Easy to use
+3. The feeling that the site is made for the user and their purpose
